@@ -1,0 +1,4 @@
+- Phần khách hàng thì mình làm view là các file jsp, Admin thì phần view mình làm Angular 6 nhé. (mình sẽ share link kèm theo)
+- Spring boot
+- HQTCSDL: MySQL
+- liên hệ: https://www.facebook.com/cuongdang.it
